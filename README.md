@@ -9,9 +9,10 @@ Parcel is just faster and easier, and requires almost no configuration.
 
 <h2>How to start with Parda</h2>
 Easy. It has only two commands out of the box: 
+<h4>start</h4>
 <pre>yarn start | npm run start</pre>
 ...to start watching files. You can access the project at localhost:1234
-
+<h4>production</h4>
 <pre>yarn production | npm run production</pre>
 ...to build production files. You can access the final output at the /dist folder.
 
