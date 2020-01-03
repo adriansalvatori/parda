@@ -2,12 +2,12 @@
 'Parda' is a react frontend boilerplate based in Parcel. 
 Really young, only tested in a couple exercises. 
 
-##Why Parda
+<h2>Why Parda</h2>
 
 Until now, i've been using webpack but it has become incredibly slow for some reason I don't really have time to dig into. 
 Parcel is just faster and easier, and requires almost no configuration. 
 
-##How to start Parda
+<h2>How to start with Parda</h2>
 Easy. It has only two commands out of the box: 
 <pre>yarn start | npm run start</pre>
 ...to start watching files. You can access the project at localhost:1234
